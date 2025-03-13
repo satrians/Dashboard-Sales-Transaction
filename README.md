@@ -7,10 +7,10 @@ Proyek ini bertujuan untuk membangun dashboard interaktif guna memantau dan meng
 
 # 2. Data yang Digunakan
 Dataset yang digunakan dalam dashboard ini mencakup beberapa dimensi dan metrik utama, antara lain:
-Tahun & Bulan: Untuk melakukan analisis berdasarkan periode waktu.
-Segment & Category: Mengelompokkan data berdasarkan kategori produk dan segmen pasar.
-Jumlah Penjualan & Keuntungan: Mengukur kinerja penjualan dan profitabilitas.
-Produk Terlaris: Menampilkan produk dengan penjualan tertinggi.
+- Tahun & Bulan: Untuk melakukan analisis berdasarkan periode waktu.
+- Segment & Category: Mengelompokkan data berdasarkan kategori produk dan segmen pasar.
+- Jumlah Penjualan & Keuntungan: Mengukur kinerja penjualan dan profitabilitas.
+- Produk Terlaris: Menampilkan produk dengan penjualan tertinggi.
 
 # 3. Fitur Dashboard
 a. Ringkasan Metrik Utama
