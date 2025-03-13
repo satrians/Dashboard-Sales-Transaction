@@ -1,5 +1,6 @@
 # Dashboard-Sales-Transaction
 ![image](https://github.com/user-attachments/assets/f3e03513-f4f2-4e31-9e73-23f3a633dc7c)
+
 Deskripsi Proyek: Sales Transaction Dashboard
 1. Tujuan Proyek
 Proyek ini bertujuan untuk membangun dashboard interaktif guna memantau dan menganalisis performa penjualan berdasarkan data transaksi. Dashboard ini akan membantu dalam pengambilan keputusan dengan menampilkan metrik utama seperti total penjualan, total profit, jumlah barang terjual, serta margin keuntungan dalam bentuk visual yang mudah dipahami.
